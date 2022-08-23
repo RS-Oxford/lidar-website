@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "Lidar"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /documents/
 ---
 
 <style>
@@ -22,13 +22,9 @@ permalink: /talks/
 }
 </style>
 
-<div class="jumbotron">
-### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
-</div>
+## Docuemtns
 
 <div class="jumbotron">
-### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
-</div>
+<h4>Algorithm Theoretical Basis Document (ATBD) and Product User Guide (PUD) will be available for downloading. </h4>
 
+</div>

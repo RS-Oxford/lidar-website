@@ -2,7 +2,7 @@
 title: "Software"
 layout: gridlay
 sitemap: false
-permalink: /software/
+permalink: /data/
 ---
 
 <style>
@@ -22,9 +22,9 @@ permalink: /software/
 }
 </style>
 
-## Software
+## Data
 
 <div class="jumbotron">
-<h4>A python-based ground lidar processing package will be publicly available on Github. </h4>
+<h4>Ground lidar data will be available for downloading from this page. </h4>
 
 </div>

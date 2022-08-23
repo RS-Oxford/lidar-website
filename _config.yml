@@ -1,5 +1,5 @@
 # Site settings
-title: Dr. Spencer Bryngelson
+title: UK Lidar
 email: spencer@caltech.edu
 description: Academic webpage of Dr. Spencer H. Bryngelson
 baseurl: ""
@@ -19,10 +19,10 @@ affiliation: >
     California Institute of Technology
 
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44
+  <a href="http://eodg.atm.ox.ac.uk/eodg" target="_blank">Earth Observation Data Group</a><br/>
+  Atmospheric, Oceanic & Planetary Physics <br/>
+  University of Oxford <br/>
+  Oxford OX1 3PU, UK
 
 contact: >
     <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
@@ -30,13 +30,17 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
+#  - name: about
+#  - name: publications
+  - name: lidar
+  - name: sites
+#  - name: software
 # - name: team
 # - name: teaching
+  - name: Software
+  - name: Documents
+  - name: Data
+  - name: People
 
 include:
   - .htaccess
