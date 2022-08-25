@@ -22,7 +22,7 @@ permalink: /documents/
 }
 </style>
 
-## Docuemtns
+## Documents
 
 <div class="jumbotron">
 <h4>Algorithm Theoretical Basis Document (ATBD) and Product User Guide (PUD) will be available for downloading. </h4>
